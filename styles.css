@@ -1,0 +1,13 @@
+span.mw-editsection {
+  display: none;
+}
+div.navigation-tree {
+  background-color: papayawhip;
+}
+h3 {
+  margin: 0;
+  display: inline;
+}
+li {
+  list-style: none;
+}
